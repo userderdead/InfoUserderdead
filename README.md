@@ -17,7 +17,7 @@ Country = "India"
 
 #### 
 
-[![telegram badge](https://img.shields.io/badge/userderdead?style=for-the-badge&logo=telegram)](https://t.me/userderdead)
+
 
 - 🔥I'm Still Learning Git & GitHub
 
